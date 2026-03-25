@@ -20,14 +20,6 @@ lojinha
 └── main         → Execução da simulação
 ```
 
-### Descrição dos pacotes
-
-* **model**: Contém as entidades principais do sistema baseadas no DER.
-* **repository**: Responsável por simular armazenamento de dados (clientes e produtos).
-* **service**: Implementa a lógica de negócio, como validação de crédito e processamento de pedidos.
-* **singleton**: Contém a classe responsável pela comunicação com o sistema de pagamento.
-* **main**: Ponto de entrada da aplicação, onde a simulação é executada.
-
 ---
 
 ## Principais Decisões Arquiteturais
