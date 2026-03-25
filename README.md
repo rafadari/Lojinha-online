@@ -59,12 +59,11 @@ public static singleton getInstance() {
 
 ## Funcionalidades Implementadas
 
-* ✔️ Identificação de clientes (dados estáticos)
-* ✔️ Listagem de produtos
-* ✔️ Criação de pedidos
-* ✔️ Adição de produtos ao pedido
-* ✔️ Cálculo do valor total
-* ✔️ Processamento de pagamento via Singleton
+* Identificação de clientes
+* Listagem de produtos
+* Criação de pedidos
+* Adição de produtos ao pedido
+* Processamento de pagamento via Singleton
 
 ---
 
