@@ -1,5 +1,4 @@
 # Lojinha-online
-# Sistema de Lojinha Online (Simulação em Java)
 
 ## Descrição
 
